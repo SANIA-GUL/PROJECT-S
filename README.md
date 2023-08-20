@@ -15,7 +15,7 @@ All estimated sources, anchors, and references are sent to listeners via email a
 
 Step 4: 
 
-A single mixture in all rooms is loaded into the PEASS toolkit as a single instance for the subjective listening test.
+A single mixture in all rooms is loaded into the PEASS toolkit as a single instance for the subjective listening test using the instructions given in mushram_config.txt given in the " Quality Folder" given in repository.
 
 Step 5:
 
